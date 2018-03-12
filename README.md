@@ -1,1 +1,1 @@
-# iniciando-com-javascript-rev-2
+# starting-with-javascript-rev2
